@@ -1,0 +1,4 @@
+*.so
+3dfdm8th_time_modeling.f90
+SynTraceGen.py
+.gitignore
